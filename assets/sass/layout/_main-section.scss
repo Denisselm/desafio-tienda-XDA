@@ -1,0 +1,17 @@
+//main section
+.main-section {
+    width: 50%;
+    height: 460px;
+    background-color: blanchedalmond;
+}
+
+.main-section__article--h1 {
+    font-family: $old-standard-tt-bold;
+    font-size: $xxx-large;
+}
+
+.main-section__aside {
+    position: relative;
+    left: 845px;
+    bottom: 155px;
+}

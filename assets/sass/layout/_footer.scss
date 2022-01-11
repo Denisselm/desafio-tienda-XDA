@@ -1,0 +1,21 @@
+//footer
+.footer-newsletter {
+    width: 90%;
+    height: 230px;
+    background-color: black;
+    color: white;
+    position: relative;
+    bottom: 390px;
+    padding: 80px;
+}
+
+.footer-newsletter__h2--style {
+    font-family: $old-standard-tt-regular;
+    font-size: $xx-large;
+}
+
+.footer-newsletter__h3 {
+    font-family: $raleway-regular;
+    font-size: $medium;
+    font-weight: 70;
+}
